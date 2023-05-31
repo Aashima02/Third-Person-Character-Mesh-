@@ -76,42 +76,44 @@
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/b158a3fe-3240-4924-b60d-dad143bcba8e)
 
 ### STATE MACHINES:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/997a80d8-9734-4c90-a36d-02827a128d93)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/c0aef584-f0d0-412e-8146-39f81157601d)
 
 
 ### STATE DIAGRAM:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/7d929690-7c24-4345-9061-da992d185d7d)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/64df2671-740a-4ef5-b402-3b827876310b)
+
 
 ### VARIABLES:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/28ef2db6-ac4a-498b-b286-394c520bedf8)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/46ce9822-7e6f-40b4-921d-3fb2707f703f)
+
 
 ### IDLE TO WALK:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/c60a7474-83af-482c-ab80-8ae819b1551e)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/7a8bbd64-ab15-445f-9280-e6155633f830)
 
 ### WALK TO IDLE:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/4f64f218-884e-48f1-b268-9d1a68f1eced)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/a46cbe0c-6ff6-4180-a4fe-b6f7387fc4c6)
 
 
 ### WALK TO JUMP:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/7aff0473-59d2-4599-8c38-fe597e0030b6)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/7096c02a-a7ed-4953-b2ba-2bfe2247cc9d)
 
 ### JUMP TO WALK:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/38e3050d-7c50-4cc2-961e-42db9b4ed19b)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/e27b4477-8010-40ce-8dac-764bc8663fa5)
 
 ### JUMP TO IDLE:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/b31ca365-aaa0-4152-bda0-2c03a48cb411)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/ea71effd-b0f8-4106-8aab-8e294733e869)
 
 ### IDLE TO JUMP:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/f21e0e16-a9fb-42f3-bd18-179874b69798)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/47c81fbe-4bbd-45dd-88eb-7f7f07cda437)
 
 ### ANIMATION BLUEPRINT:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/0e53f23d-3394-4a4e-8dbe-770b0c45f437)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/743d99c0-7034-450b-bced-75fc9bc60211)
 
 ### ANIM MONTAGE:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/7d66a112-8c48-48bd-b94d-3c3729beec80)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/a6f7ef63-ec7c-4204-8ab6-ba9d33d9e705)
 
 ### THIRD PERSON BLUEPRINT:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/73c83090-5c42-4802-8b29-97d887f1b3b9)
+![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/3c670727-d315-422f-82db-0158cbc04960)
 
 ## RESULT:
 
